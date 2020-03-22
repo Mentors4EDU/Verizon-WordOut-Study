@@ -13,6 +13,6 @@ Now I wanted to do a WordOut infographic in relation to this chart and article. 
 I copy and pasted the text from the article related to that Statista chart to TagCloud as well, and got suprisingly similar results. TagCloud also revealed the same things going on in terms of Verizon being bold and the biggest. Then came Yahoo and AOL, and lots of emphasis was put on the words: acquired, advertising and deal. It is almost as if the writer was utilizing these words not just to ephasize how big of a deal this was, but how this would help with advertising, content generation, and Verizon's overall reach. You can see the words online and reach being the next emphasized words, and then: audience, billion, business, company, content and month. In a way, that further validates my conclusion.
 
 **Sources:**  
-**[1]** Richter, F. (2016, July 25). Infographic: Verizon Extends Its Digital Reach. Retrieved March 21, 2020, from [https://www.statista.com/chart/5337/top-10-us-online-properties/](https://www.statista.com/chart/5337/top-10-us-online-properties/)
+**[1]** Richter, F. (2016, July 25). Infographic: Verizon Extends Its Digital Reach. Retrieved March 21, 2020, from [https://www.statista.com/chart/5337/top-10-us-online-properties/](https://www.statista.com/chart/5337/top-10-us-online-properties/)  
 **[2]** Transform your text into word clouds! (n.d.). Retrieved March 21, 2020, from [https://worditout.com/](https://worditout.com/)  
 **[3]** TagCrowd.com. (n.d.). Retrieved March 21, 2020, from [https://tagcrowd.com/](https://tagcrowd.com/)
